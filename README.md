@@ -10,7 +10,7 @@ This is a 2D Bullet Hell Platformer game that I developed in Unity.
 
 **Tech used:** C#, Unity Engine, WebGL
 
-Conceptualization and Planning:
+<em>Conceptualization and Planning:</em>
 The first step was to come up with a concept and plan out the game's mechanics, art style, and overall gameplay. I knew that I wanted the core mechanic to be a combination of platforming and bullet dodging, so everything that came after that was planned around those mechanics. Then I decided it would be a fun to base the game's theme off Cryptocurrency memecoins. 
 
 Creating the Scripts:
