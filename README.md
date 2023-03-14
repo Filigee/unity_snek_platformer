@@ -20,7 +20,7 @@ I then created the Player Character's controller script and added all of the dif
 Many times throughout development I had to come back to certain stats and mechanics and tweak them as they were affecting the experience of the game.
 
 <strong>Final Testing and Publishing:</strong><br>
-I then published the game on Github using WebGL and had a few friends test it out, which was a great experience!
+I then built the game using WebGL and published it on Github pages, a few friends then tested it out and really seemed to enjoy it!
     
 ## Optimizations
 
